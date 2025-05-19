@@ -1,2 +1,2 @@
 console.log('Hi');
-console.log('Nothing');
+console.log('Accept all changes');
